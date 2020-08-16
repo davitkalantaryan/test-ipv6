@@ -1,0 +1,13 @@
+*.[oa]
+*~
+*.obj
+
+sys
+
+prj/*/*/*
+!prj/*/*_qt/*.pro
+!prj/*/*_qt/*.pri
+
+workspaces/*/*
+!workspaces/*qt/*.pro
+!workspaces/*qt/*.pri
